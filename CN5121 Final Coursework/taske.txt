@@ -1,0 +1,8 @@
+GPA =  3.43
+R8, greatpaper,  4.00
+R9, exceptionalpaper,  4.00
+R10, turingmedalpaper,  4.00
+R6, nicepaper,  3.00
+P7, blabla3,  3.00
+P10, goodpaper2,  3.00
+P1, Title1,  3.00
